@@ -29,12 +29,16 @@ Ayrıca araç komutları yerine getirirken kullanıcıya Türkçe doğal konuşm
 ## Features
 List the key features and functionalities of the project.
 - Hardware: The hardware components used (should be listed with links)
+- 
   Rasberry Pi 4			1	https://www.robocombo.com/raspberry-pi-4-8gb-yeni-versiyon
+    
   Raspberry Pi UPS HAT			1	https://market.samm.com/tr-usd/raspberry-pi-ups-hat
+    
   Raspberry Pi  Sd Kart			1	https://market.samm.com/raspberry-pi-64gb-a2-class-hafiza-karti
-  Micro SD Hafıza Kart Okuyucu        			1	https://www.hepsiburada.com/veggieg-usb-2-0-sd-ve-micro-sd-hafiza-kart-okuyucu-siyah-p-HBCV000075WAZD?magaza=Maxitekno&
-  18650 Pil			4	https://www.pilevreni.com/orion-18650-3.7v-2450mah-sarj-edilebilir-li-ion-pil
-  Pil Yatağı			1	https://www.robocombo.com/18650-2li-pil-yuvasi-kablolu-3353
+    
+  Micro SD Hafıza Kart Okuyucu        			1	https://www.hepsiburada.com/veggieg-usb-2-0-sd-ve-micro-sd-hafiza-kart-okuyucu-siyah-p-HBCV000075WAZD?magaza=Maxitekno&  
+  18650 Pil			4	https://www.pilevreni.com/orion-18650-3.7v-2450mah-sarj-edilebilir-li-ion-pil  
+  Pil Yatağı			1	https://www.robocombo.com/18650-2li-pil-yuvasi-kablolu-3353  
   HC-SR04 Arduino Ultrasonic Mesafe Sensörü			1	https://robolinkmarket.com/hc-sr04-arduino-ultrasonic-mesafe-sensoru?srsltid=AfmBOooZNz0LNqoCOcTf4P2N2B-U-qGTtOwfh3LrpjtQ432j951cvKpiRXQ&gStoreCode=robolinkG1
   L298N Motor Sürücü Kartı			1	https://robolinkmarket.com/l298n-motor-surucu-karti?srsltid=AfmBOoprUP9nhtKZ9o601lqJdaMOPEYprGBfUbroT7UoArpduLZ_hXtT6Pk&gStoreCode=robolinkG1
   Arduino Nano			1	https://www.robotistan.com/arduino-nano?language=tr&h=1617316c
