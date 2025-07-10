@@ -9,7 +9,11 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
-Provide a brief overview of the project, its purpose, and what problem it aims to solve.
+The vehicle will send natural language voice commands received from the user to an artificial intelligence model (LLM). This will analyze the commands, translate them into basic driving commands, and execute these commands using sensors.
+
+Furthermore, the vehicle will provide the user with vocal feedback, similar to natural Turkish speech (as non-robotic as possible), as the vehicle executes the commands.
+
+The operating scenario can be briefly summarized as follows: The user gives a series of commands in natural Turkish (e.g., "Go straight until you encounter an obstacle, then turn left, go forward for 2 seconds, turn right"). The vehicle's onboard microprocessor records the voice command and transcribes it using a voice recognition service. The transcribed command is analyzed using an artificial intelligence model (LLM) and converted into basic movement commands. The resulting commands are executed sequentially. The vehicle performs the assigned tasks through its motors and sensors. During the execution, the vehicle will provide users with vocal feedback in Turkish (e.g., "I'm currently driving forward," "I'm turning left").
 
 ## Features
 List the key features and functionalities of the project.
