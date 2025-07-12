@@ -42,7 +42,24 @@ List the key features and functionalities of the project.
   - [Servo Motor](https://www.robocombo.com/SG90-RC-Servo-Motor,PR-141.html?srsltid=AfmBOoriSRx2NBEiuyk6wXhx8eV2KMV2gDN1X_tiDEVRmnpVYjCCJ1HwYyU)
   - [USB 3.1 To Type-C Dönüştürücü](https://www.hepsiburada.com/baseus-usb-3-1-to-type-c-donusturucu-adaptor-mini-otg-baseus-ingenuity-series-zjjq000101-p-HBCV00001TCC3G?magaza=IVOOMI)
 - Operating System and packages
-- Applications 
+  - Raspberry Pi OS
+  - Python 3.x
+  - Windows 10 or later
+- Python Libraries
+  - `resemblyzer`, `speechbrain` – Speaker recognition
+  - `speech_recognition`, `pyaudio` – Voice command input
+  - `socket`, `json`, `datetime` – Networking and data handling
+  - `numpy`, `scipy.spatial.distance` – Data processing
+  - `gtts`, `subprocess` – Text-to-speech
+  - `serial` (`pyserial`) – Serial communication
+  - `os`, `re`, `tempfile`, `ctypes` – System utilities
+  - `socketio`, `ipaddress` – WebSocket & IP
+- Applications
+  - Real-Time Wi-Fi Communication via TCP
+  - Feasibility-Based Command Execution
+  - Sequential Command Feedback Display
+  - Safe Motor Activation/Deactivation
+  - Authorized User Voice Verification
 - Services 
 
 ## Installation
