@@ -18,7 +18,6 @@ The operating scenario can be briefly summarized as follows: The user gives a se
 
 
 ## Features
-List the key features and functionalities of the project.
 - Hardware: The hardware components used (should be listed with links)
   - [Rasberry Pi 4](https://www.robocombo.com/raspberry-pi-4-8gb-yeni-versiyon)
   - [Raspberry Pi UPS HAT](https://market.samm.com/tr-usd/raspberry-pi-ups-hat)
