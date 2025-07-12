@@ -62,7 +62,7 @@ cd project-name
 ```
 
 ## Usage
-## 🚀 How to Use the Project
+##  How to Use the Project
 
 1. **Connect the Raspberry Pi to Your Local Network**  
    You can use **SSH** or **RealVNC** to access the Raspberry Pi.
