@@ -50,16 +50,90 @@ The operating scenario can be briefly summarized as follows: The user gives a se
   - Sequential Command Feedback Display
   - Safe Motor Activation/Deactivation
   - Authorized User Voice Verification
-- Services 
+- Services
+  - `Google Generative AI (Gemini)` – Natural language understanding
+  - `Google Text-to-Speech (gTTS)` – Converts response or warnings into Turkish audio feedback
+  - `mpg123 (external)` – Plays generated .mp3 audio files for feedback and status notifications
+  - `Python SocketIO` – Real-time communication between Raspberry Pi and server interface.
+  - `PySerial` – Communicates with Arduino via USB for motor and sensor control
+  - `SpeechRecognition + PyAudio` – Captures voice commands through USB microphone and performs STT (Speech to Text)
+  - `Resemblyzer + SpeechBrain` – Speaker identification based on combined voice embeddings
+  - `Torchaudio` – Preprocessing of audio input for speaker verification
 
 ## Installation
 Describe the steps required to install and set up the project. Include any prerequisites, dependencies, and commands needed to get the project running.
 
+### Raspberry Pi Setup
+
+1. **Initial Setup:**  
+   Flash the Raspberry Pi OS using Raspberry Pi Imager.
+
+   Complete the initial boot process (Wi-Fi, locale, etc.).
+ 
+   Enable SSH via raspi-config or place an empty file named ssh in the boot partition.
+
+2. **SSH Connection:**  
+
 ```bash
-# Example commands
-git clone https://github.com/username/project-name.git
-cd project-name
+
+ssh pi@<raspberry-pi-ip>
+
 ```
+
+3. **Clone the Project:**
+
+```bash
+git clone https://github.com/ELE495-2425Summer/capstoneproject-mut33-grup3.git 
+cd capstoneproject-mut33-grup3/rasp
+```
+4. **Install Dependencies:**
+
+```bash
+
+pip install -r requirements.txt
+
+```
+
+### Desktop (GUI / Flask Server) Setup
+
+This is the WebSocket server and interface for real-time monitoring.
+
+1. **Clone Repository:**
+
+On your desktop machine: 
+
+```bash
+git clone https://github.com/ELE495-2425Summer/capstoneproject-mut33-grup3.git 
+cd capstoneproject-mut33-grup3/gui
+```
+
+2. **Install Gui Repository Dependencies:**
+
+```bash
+
+pip install -r gui_requirements.txt
+
+```
+
+3. **Run the Flask Server:**
+
+```bash
+
+python gui.py
+
+```
+### Desktop (GUI / Flask Server) Setup
+
+1. **Upload Firmware:**
+
+Open Arduino IDE.
+
+Go to Arduino/arduino_control.ino.
+
+Select your board (Arduino Nano) and port (e.g., /dev/ttyUSB0 or COM3).
+
+Click Upload.
+
 
 ## Usage
 ##  How to Use the Project
@@ -74,14 +148,6 @@ cd project-name
 
 
 ## Screenshots
-
-
-### 🔹 Interface
-![Interface Screenshot](Arayüz.png)
-
-### 🔹 Car
-![Car Photo](araba.jpg)
-
 Include screenshots of the project in action to give a visual representation of its functionality. You can also add videos of running project to YouTube and give a reference to it here. 
 
 ## Acknowledgements
