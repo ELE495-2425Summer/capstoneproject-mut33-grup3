@@ -21,16 +21,16 @@ The operating scenario can be briefly summarized as follows: The user gives a se
 - Hardware: The hardware components used 
   - [Rasberry Pi 4](https://www.robocombo.com/raspberry-pi-4-8gb-yeni-versiyon)
   - [Raspberry Pi UPS HAT](https://market.samm.com/tr-usd/raspberry-pi-ups-hat)
-  - [Raspberry Pi  Sd Kart](https://market.samm.com/raspberry-pi-64gb-a2-class-hafiza-karti)
-  - [Micro SD Hafıza Kart Okuyucu](https://www.hepsiburada.com/veggieg-usb-2-0-sd-ve-micro-sd-hafiza-kart-okuyucu-siyah-p-HBCV000075WAZD)
-  - [HC-SR04 Arduino Ultrasonic Mesafe Sensörü](https://robolinkmarket.com/hc-sr04-arduino-ultrasonic-mesafe-sensoru?srsltid=AfmBOooZNz0LNqoCOcTf4P2N2B-U-qGTtOwfh3LrpjtQ432j951cvKpiRXQ&gStoreCode=robolinkG1)
-  - [L298N Motor Sürücü Kartı](https://robolinkmarket.com/l298n-motor-surucu-karti?srsltid=AfmBOoprUP9nhtKZ9o601lqJdaMOPEYprGBfUbroT7UoArpduLZ_hXtT6Pk&gStoreCode=robolinkG1)
+  - [Raspberry Pi  Sd Card](https://market.samm.com/raspberry-pi-64gb-a2-class-hafiza-karti)
+  - [Micro SD Card Reader](https://www.hepsiburada.com/veggieg-usb-2-0-sd-ve-micro-sd-hafiza-kart-okuyucu-siyah-p-HBCV000075WAZD)
+  - [HC-SR04 Arduino Ultrasonic Distance Sensor](https://robolinkmarket.com/hc-sr04-arduino-ultrasonic-mesafe-sensoru?srsltid=AfmBOooZNz0LNqoCOcTf4P2N2B-U-qGTtOwfh3LrpjtQ432j951cvKpiRXQ&gStoreCode=robolinkG1)
+  - [L298N Motor Driver](https://robolinkmarket.com/l298n-motor-surucu-karti?srsltid=AfmBOoprUP9nhtKZ9o601lqJdaMOPEYprGBfUbroT7UoArpduLZ_hXtT6Pk&gStoreCode=robolinkG1)
   - [Arduino Nano](https://www.robotistan.com/arduino-nano?language=tr&h=1617316c)
-  - [MPU9250 9 Eksenli Gyro ve Eğim Sensörü](https://www.robocombo.com/mpu-9250-9-eksen-jiroskop-ivmeolcer-manyetometre-sensor-modulu?srsltid=AfmBOorEJfvat3dhbArzxP1OZkIcCixFGoXX8n1p_biLCCXOeLeWURcTlkw)
-  - [Mikrofon](https://www.hepsiburada.com/daytona-k9-c2-wireless-3in1-kablosuz-mikrofon-type-c-lightning-3-5mm-jak-ciftli-yaka-mikrofonu-p-HBCV00004625CL?magaza=Alcamseni)
-  - [Hoparlör](https://www.hepsiburada.com/grundig-solo-bluetooth-hoparlor-siyah-p-HBCV000051RRB7)
+  - [MPU9250 9-Axis Gyroscope and Accelerometer Sensor](https://www.robocombo.com/mpu-9250-9-eksen-jiroskop-ivmeolcer-manyetometre-sensor-modulu?srsltid=AfmBOorEJfvat3dhbArzxP1OZkIcCixFGoXX8n1p_biLCCXOeLeWURcTlkw)
+  - [Microphone](https://www.hepsiburada.com/daytona-k9-c2-wireless-3in1-kablosuz-mikrofon-type-c-lightning-3-5mm-jak-ciftli-yaka-mikrofonu-p-HBCV00004625CL?magaza=Alcamseni)
+  - [Speaker](https://www.hepsiburada.com/grundig-solo-bluetooth-hoparlor-siyah-p-HBCV000051RRB7)
   - [Servo Motor](https://www.robocombo.com/SG90-RC-Servo-Motor,PR-141.html?srsltid=AfmBOoriSRx2NBEiuyk6wXhx8eV2KMV2gDN1X_tiDEVRmnpVYjCCJ1HwYyU)
-  - [USB 3.1 To Type-C Dönüştürücü](https://www.hepsiburada.com/baseus-usb-3-1-to-type-c-donusturucu-adaptor-mini-otg-baseus-ingenuity-series-zjjq000101-p-HBCV00001TCC3G?magaza=IVOOMI)
+  - [USB 3.1 to Type-C Converter](https://www.hepsiburada.com/baseus-usb-3-1-to-type-c-donusturucu-adaptor-mini-otg-baseus-ingenuity-series-zjjq000101-p-HBCV00001TCC3G?magaza=IVOOMI)
 - Operating System and packages
   - Raspberry Pi OS
   - Python 3.x
