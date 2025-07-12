@@ -166,6 +166,9 @@ This starts voice recognition, speaker verification, Gemini-based command parsin
 
 ![Car Photo](araba.jpg)
 
+### 🔹 Video
+https://drive.google.com/file/d/1dzoAmCjLHfBAUim9stfpaE1-qQV7wxIR/view?usp=drive_link
+
 ## Acknowledgements
 
 ### Contributors
