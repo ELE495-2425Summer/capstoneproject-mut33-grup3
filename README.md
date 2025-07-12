@@ -60,8 +60,9 @@ The operating scenario can be briefly summarized as follows: The user gives a se
   - `Resemblyzer + SpeechBrain` – Speaker identification based on combined voice embeddings
   - `Torchaudio` – Preprocessing of audio input for speaker verification
 
-## Installation
-Describe the steps required to install and set up the project. Include any prerequisites, dependencies, and commands needed to get the project running.
+## Installation,
+
+The following steps describe how to download and set up the project. All prerequisites and dependencies are listed below.
 
 ### Raspberry Pi Setup
 
