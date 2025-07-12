@@ -62,6 +62,15 @@ cd project-name
 ```
 
 ## Usage
+## 🚀 How to Use the Project
+
+1. **Connect the Raspberry Pi to Your Local Network**  
+   You can use **SSH** or **RealVNC** to access the Raspberry Pi.
+
+2. **Run the Interface Code**  
+   ```bash
+   python3 interface.py
+
 Provide instructions and examples on how to use the project. Include code snippets or screenshots where applicable.
 
 ## Screenshots
