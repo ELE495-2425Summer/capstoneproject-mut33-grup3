@@ -69,11 +69,9 @@ cd project-name
 2. **Run the Interface Code**  
    ```bash
    interface.py
-3. **Once you hear “Sunucuya bağlanıldı,” you can start the car using the button on the interface.**
-4. **Finally, after hearing “Sizi dinliyorum,” you can give your command to the car.**
+3. **Once you hear “Sunucuya bağlanıldı” you can start the car using the button on the interface.**
+4. **Finally, after hearing “Sizi dinliyorum” you can give your command to the car.**
 
-
-Provide instructions and examples on how to use the project. Include code snippets or screenshots where applicable.
 
 ## Screenshots
 Include screenshots of the project in action to give a visual representation of its functionality. You can also add videos of running project to YouTube and give a reference to it here. 
