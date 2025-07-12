@@ -155,10 +155,15 @@ This starts voice recognition, speaker verification, Gemini-based command parsin
 4. **Finally, after hearing “Sizi dinliyorum” you can give your command to the car.**
 
 
-## Screenshots
-Include screenshots of the project in action to give a visual representation of its functionality. You can also add videos of running project to YouTube and give a reference to it here. 
+## 📷 Screenshots
 
+### 🔹 Interface
+![Interface Screenshot](Arayüz.png)
+
+### 🔹 Car
+![Car Photo](araba.jpg)
 ## Acknowledgements
+
 Give credit to those who have contributed to the project or provided inspiration. Include links to any resources or tools used in the project.
 
 [Contributor 1](https://github.com/user1)
