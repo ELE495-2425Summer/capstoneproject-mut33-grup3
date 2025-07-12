@@ -74,6 +74,14 @@ cd project-name
 
 
 ## Screenshots
+## 📷 Screenshots
+
+### 🔹 Interface
+![Interface Screenshot](Arayüz.png)
+
+### 🔹 Car
+![Car Image](Araba.png)
+
 Include screenshots of the project in action to give a visual representation of its functionality. You can also add videos of running project to YouTube and give a reference to it here. 
 
 ## Acknowledgements
