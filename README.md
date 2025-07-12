@@ -18,7 +18,7 @@ The operating scenario can be briefly summarized as follows: The user gives a se
 
 
 ## Features
-- Hardware: The hardware components used (should be listed with links)
+- Hardware: The hardware components used 
   - [Rasberry Pi 4](https://www.robocombo.com/raspberry-pi-4-8gb-yeni-versiyon)
   - [Raspberry Pi UPS HAT](https://market.samm.com/tr-usd/raspberry-pi-ups-hat)
   - [Raspberry Pi  Sd Kart](https://market.samm.com/raspberry-pi-64gb-a2-class-hafiza-karti)
@@ -158,13 +158,22 @@ This starts voice recognition, speaker verification, Gemini-based command parsin
 ## 📷 Screenshots
 
 ### 🔹 Interface
+
 ![Interface Screenshot](Arayüz.png)
 
 ### 🔹 Car
+
 ![Car Photo](araba.jpg)
+
 ## Acknowledgements
 
-Give credit to those who have contributed to the project or provided inspiration. Include links to any resources or tools used in the project.
+### Contributors
+- [İbrahim Berk Deliçay](https://github.com/Ibrahimberko)
+- [Barış Ünal](https://github.com/BarisUnalELE)
+- [Osman Cesur](https://github.com/Osman-Cesur)
+- [Mehmet Melih Özbilen](https://github.com/Mehmet-Melih-Ozbilen)
+- [Emre Doğan](https://github.com/EmreDogan33)
 
-[Contributor 1](https://github.com/user1)
-[Resource or Tool](https://www.nvidia.com)
+### Resources
+- [Rasperry Pi Official Documentation](https://www.raspberrypi.com/documentation)
+- [Google AI Studio (Gemini API)](https://aistudio.google.com/prompts/new_chat)
