@@ -66,10 +66,12 @@ cd project-name
 
 1. **Connect the Raspberry Pi to Your Local Network**  
    You can use **SSH** or **RealVNC** to access the Raspberry Pi.
-
 2. **Run the Interface Code**  
    ```bash
-   python3 interface.py
+   interface.py
+3. **Once you hear “Connected to the server,” you can start the car using the button on the interface.**
+4. **Finally, after hearing “Listening to you,” you can give your command to the car.**
+
 
 Provide instructions and examples on how to use the project. Include code snippets or screenshots where applicable.
 
