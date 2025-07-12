@@ -32,7 +32,7 @@ List the key features and functionalities of the project.
   - [Rasberry Pi 4](https://www.robocombo.com/raspberry-pi-4-8gb-yeni-versiyon)
   - [Raspberry Pi UPS HAT](https://market.samm.com/tr-usd/raspberry-pi-ups-hat)
   - [Raspberry Pi  Sd Kart](https://market.samm.com/raspberry-pi-64gb-a2-class-hafiza-karti)
-  - [Micro SD Hafıza Kart Okuyucu](https://www.hepsiburada.com/veggieg-usb-2-0-sd-ve-micro-sd-hafiza-kart-okuyucu-siyah-p-HBCV000075WAZD?   magaza=Maxitekno&)
+  - [Micro SD Hafıza Kart Okuyucu](https://www.hepsiburada.com/veggieg-usb-2-0-sd-ve-micro-sd-hafiza-kart-okuyucu-siyah-p-HBCV000075WAZD)
   - [HC-SR04 Arduino Ultrasonic Mesafe Sensörü](https://robolinkmarket.com/hc-sr04-arduino-ultrasonic-mesafe-sensoru?srsltid=AfmBOooZNz0LNqoCOcTf4P2N2B-U-qGTtOwfh3LrpjtQ432j951cvKpiRXQ&gStoreCode=robolinkG1)
   - [L298N Motor Sürücü Kartı](https://robolinkmarket.com/l298n-motor-surucu-karti?srsltid=AfmBOoprUP9nhtKZ9o601lqJdaMOPEYprGBfUbroT7UoArpduLZ_hXtT6Pk&gStoreCode=robolinkG1)
   - [Arduino Nano](https://www.robotistan.com/arduino-nano?language=tr&h=1617316c)
