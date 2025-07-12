@@ -29,20 +29,18 @@ Ayrıca araç komutları yerine getirirken kullanıcıya Türkçe doğal konuşm
 ## Features
 List the key features and functionalities of the project.
 - Hardware: The hardware components used (should be listed with links)
-  - [Rasberry Pi 4] (https://www.robocombo.com/raspberry-pi-4-8gb-yeni-versiyon)
-  - [Raspberry Pi UPS HAT] (https://market.samm.com/tr-usd/raspberry-pi-ups-hat)
-  - [Raspberry Pi  Sd Kart] (https://market.samm.com/raspberry-pi-64gb-a2-class-hafiza-karti)
-  - [Micro SD Hafıza Kart Okuyucu] (https://www.hepsiburada.com/veggieg-usb-2-0-sd-ve-micro-sd-hafiza-kart-okuyucu-siyah-p-HBCV000075WAZD?   magaza=Maxitekno&)
-  - [18650 Pil]	(https://www.pilevreni.com/orion-18650-3.7v-2450mah-sarj-edilebilir-li-ion-pil)
-  - [HC-SR04 Arduino Ultrasonic Mesafe Sensörü]	(https://robolinkmarket.com/hc-sr04-arduino-ultrasonic-mesafe-sensoru?srsltid=AfmBOooZNz0LNqoCOcTf4P2N2B-U-qGTtOwfh3LrpjtQ432j951cvKpiRXQ&gStoreCode=robolinkG1)
-  - [L298N Motor Sürücü Kartı] (https://robolinkmarket.com/l298n-motor-surucu-karti?srsltid=AfmBOoprUP9nhtKZ9o601lqJdaMOPEYprGBfUbroT7UoArpduLZ_hXtT6Pk&gStoreCode=robolinkG1)
-  - [Arduino Nano] (https://www.robotistan.com/arduino-nano?language=tr&h=1617316c)
-  - [MPU9250 9 Eksenli Gyro ve Eğim Sensörü] (https://www.robocombo.com/mpu-9250-9-eksen-jiroskop-ivmeolcer-manyetometre-sensor-modulu?srsltid=AfmBOorEJfvat3dhbArzxP1OZkIcCixFGoXX8n1p_biLCCXOeLeWURcTlkw)
-  - [Mikrofon] (https://www.hepsiburada.com/daytona-k9-c2-wireless-3in1-kablosuz-mikrofon-type-c-lightning-3-5mm-jak-ciftli-yaka-mikrofonu-p-HBCV00004625CL?magaza=Alcamseni)
-  - [Hoparlör] (https://www.hepsiburada.com/grundig-solo-bluetooth-hoparlor-siyah-p-HBCV000051RRB7)
-  - [Servo Motor] (https://www.robocombo.com/SG90-RC-Servo-Motor,PR-141.html?srsltid=AfmBOoriSRx2NBEiuyk6wXhx8eV2KMV2gDN1X_tiDEVRmnpVYjCCJ1HwYyU)
-  - [Logitech G432 USB Ses Kartı]	(https://www.sahibinden.com/ilan/ikinci-el-ve-sifir-alisveris-bilgisayar-masaustu-orjinal-logitech-g432-usb-dac-ses-karti-kalan-29-adet-1246227062/detay)
-  - [USB 3.1 To Type-C Dönüştürücü] (https://www.hepsiburada.com/baseus-usb-3-1-to-type-c-donusturucu-adaptor-mini-otg-baseus-ingenuity-series-zjjq000101-p-HBCV00001TCC3G?magaza=IVOOMI)
+  - [Rasberry Pi 4](https://www.robocombo.com/raspberry-pi-4-8gb-yeni-versiyon)
+  - [Raspberry Pi UPS HAT](https://market.samm.com/tr-usd/raspberry-pi-ups-hat)
+  - [Raspberry Pi  Sd Kart](https://market.samm.com/raspberry-pi-64gb-a2-class-hafiza-karti)
+  - [Micro SD Hafıza Kart Okuyucu](https://www.hepsiburada.com/veggieg-usb-2-0-sd-ve-micro-sd-hafiza-kart-okuyucu-siyah-p-HBCV000075WAZD?   magaza=Maxitekno&)
+  - [HC-SR04 Arduino Ultrasonic Mesafe Sensörü](https://robolinkmarket.com/hc-sr04-arduino-ultrasonic-mesafe-sensoru?srsltid=AfmBOooZNz0LNqoCOcTf4P2N2B-U-qGTtOwfh3LrpjtQ432j951cvKpiRXQ&gStoreCode=robolinkG1)
+  - [L298N Motor Sürücü Kartı](https://robolinkmarket.com/l298n-motor-surucu-karti?srsltid=AfmBOoprUP9nhtKZ9o601lqJdaMOPEYprGBfUbroT7UoArpduLZ_hXtT6Pk&gStoreCode=robolinkG1)
+  - [Arduino Nano](https://www.robotistan.com/arduino-nano?language=tr&h=1617316c)
+  - [MPU9250 9 Eksenli Gyro ve Eğim Sensörü](https://www.robocombo.com/mpu-9250-9-eksen-jiroskop-ivmeolcer-manyetometre-sensor-modulu?srsltid=AfmBOorEJfvat3dhbArzxP1OZkIcCixFGoXX8n1p_biLCCXOeLeWURcTlkw)
+  - [Mikrofon](https://www.hepsiburada.com/daytona-k9-c2-wireless-3in1-kablosuz-mikrofon-type-c-lightning-3-5mm-jak-ciftli-yaka-mikrofonu-p-HBCV00004625CL?magaza=Alcamseni)
+  - [Hoparlör](https://www.hepsiburada.com/grundig-solo-bluetooth-hoparlor-siyah-p-HBCV000051RRB7)
+  - [Servo Motor](https://www.robocombo.com/SG90-RC-Servo-Motor,PR-141.html?srsltid=AfmBOoriSRx2NBEiuyk6wXhx8eV2KMV2gDN1X_tiDEVRmnpVYjCCJ1HwYyU)
+  - [USB 3.1 To Type-C Dönüştürücü](https://www.hepsiburada.com/baseus-usb-3-1-to-type-c-donusturucu-adaptor-mini-otg-baseus-ingenuity-series-zjjq000101-p-HBCV00001TCC3G?magaza=IVOOMI)
 - Operating System and packages
 - Applications 
 - Services 
