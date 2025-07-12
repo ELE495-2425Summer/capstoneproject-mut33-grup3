@@ -136,14 +136,22 @@ Click Upload.
 
 
 ## Usage
-##  How to Use the Project
 
-1. **Connect the Raspberry Pi to Your Local Network**  
-   You can use **SSH** or **RealVNC** to access the Raspberry Pi.
+1. **Run Main Code on Raspberry Pi**  
+```bash
+
+python3 codes/rasp/raspberry_code.py
+
+```
+
+This starts voice recognition, speaker verification, Gemini-based command parsing, and Arduino control.
+
 2. **Run the Interface Code**  
    ```bash
-   interface.py
+   python3 codes/gui/gui.py
+   
 3. **Once you hear “Sunucuya bağlanıldı” you can start the car using the button on the interface.**
+   
 4. **Finally, after hearing “Sizi dinliyorum” you can give your command to the car.**
 
 
