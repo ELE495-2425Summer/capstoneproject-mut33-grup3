@@ -1,0 +1,15 @@
+speechrecognition
+google-generativeai
+pyserial
+python-socketio
+gTTS
+numpy
+scipy
+resemblyzer
+speechbrain
+torchaudio
+PyAudio
+PyQt5
+matplotlib
+flask
+flask-socketio

@@ -1,0 +1,10 @@
+speechrecognition
+google-generativeai
+pyserial
+socketio
+gTTS
+numpy
+scipy
+resemblyzer
+speechbrain
+torchaudio
